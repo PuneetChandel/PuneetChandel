@@ -1,7 +1,4 @@
 # Hi there! 👋 I'm Puneet Chandel
-
-## 🚀 Software Engineer | Software Architect | AI Enthusiast
-
 Welcome to my experimental playground! I'm passionate about pushing the boundaries of technology through research, experimentation, and building innovative solutions that solve real-world problems.
 
 > ⚠️ **Important**: This GitHub profile and all repositories are dedicated to **personal research, learning, and experimentation**. All content represents my individual exploration of technology and does **not reflect or represent the views, policies, or proprietary information of any current or former employer**.
