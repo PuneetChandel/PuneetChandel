@@ -10,7 +10,7 @@ Welcome to my experimental playground! I'm passionate about pushing the boundari
 ```python
 class PuneetChandel:
     def __init__(self):
-        self.role = ["Principal Software Engineer", "Enterprise Architect"]
+        self.role = ["Software Engineer", "Enterprise Architect", "Software Architect"]
         self.passion = ["AI/ML", "System Architecture", "Research & Innovation"]
         self.mindset = "Experiment. Learn. Build. Repeat."
         self.focus = "Bridging enterprise architecture with cutting-edge AI"
