@@ -72,17 +72,6 @@ class PuneetChandel:
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PuneetChandel&show_icons=true&theme=radical&hide_border=true)](https://github.com/PuneetChandel)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PuneetChandel&layout=compact&theme=radical&hide_border=true)](https://github.com/PuneetChandel)
-
-</div>
-
----
 
 ## 🏆 Featured Projects
 
